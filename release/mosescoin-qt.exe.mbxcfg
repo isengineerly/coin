@@ -1,0 +1,24 @@
+
+box.cmdline=
+box.encrypt=1
+box.packdefault=1
+box.pattern=*.*
+box.separate=0
+box.sepfile=
+box.ziplevel=1
+dir.addfiles=D:\Wallet\mosescoin
+exe.crc=0
+exe.pack=1
+exe.packedfilesvisible=1
+exe.source=D:\Wallet\mosescoin\release\mosescoin-qt.exe
+exe.target=mosescoin-qt.exe.exe
+key.0=4B575A7E6AE3CDD2F4508EF3F4BBC568
+key.1=03B808C32AF8A1111C0CB8AEE5DCE374
+
+box.contents~
+00 libgcc_s_dw2-1.dll
+00 libstdc++-6.dll
+00 libwinpthread-1.dll
+00 QtCore4.dll
+00 QtGui4.dll
+~
